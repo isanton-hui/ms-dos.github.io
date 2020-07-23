@@ -1,0 +1,8 @@
+.col-main {
+	width: 30%;
+}
+
+.col-sidebar {
+	width: 70%;
+	float: left;
+}
